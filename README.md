@@ -1,5 +1,8 @@
 ## Olá! Eu me chamo Maicon Dutra 🖐️
 
+<h3>Sobre mim</h3>
+<p>Eu sou um <strong>Desenvolvedor Front End</strong>, estou cursando engenharia de software, atualmente estou no segundo período da universidade, meus estudos atualmente são maior parte no front end, utilizando html5, css3, javascript, bootstrap, tailwindcss e react. Porém eu desejo me tornar um desenvolvedor fullstack, trabalhando tanto no front end quanto no back end.</p>
+
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maicondutradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicondutradev&layout=compact&langs_count=16&theme=tokyonight"/>
@@ -21,12 +24,13 @@
   <br>
   <br>
 
+
   <h1 align="center">Contato</h1>
     <a href="mailto:maicon.dutra77@gmail.com">
-      <img width="50" src="gmail.gif" alt="gmail"/>
+      <img align="center" width="50" src="gmail.gif" alt="gmail"/>
     </a>
     <a href="https://www.linkedin.com/in/maicon-dutra-09a41b250/">
-      <img width="50" src="linkedin2.gif" alt="linkedin"/>
+      <img align="center" width="50" src="linkedin2.gif" alt="linkedin"/>
     </a>
 
 </div>
