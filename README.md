@@ -16,6 +16,8 @@
     <img align="center" height="60" width="70" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
 
+  <br>
+  <br>
 
   <h1 align="center">Contato</h1>
     <a href="mailto:maicon.dutra77@gmail.com">
