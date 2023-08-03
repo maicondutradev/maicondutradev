@@ -27,7 +27,7 @@
 
 
   <h1 align="center">Contato</h1>
-    <a href="mailto:">
+    <a href="">
       <img align="center" width="50" src="gmail.gif" alt="gmail"/>
     </a>
     <a href="https://www.linkedin.com/in/maicon-dutra-09a41b250/">
