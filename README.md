@@ -15,4 +15,11 @@
     <img align="center" height="60" width="70" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" height="60" width="70" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
+
+
+  <h1 align="center">Redes Sociais</h1>
+    <a href="mailto:maicon.dutra77@gmail.com">
+      <img width="300" src="email.gif" alt="Email">
+    </a>
+
 </div>
