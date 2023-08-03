@@ -19,7 +19,7 @@
 
   <h1 align="center">Redes Sociais</h1>
     <a href="mailto:maicon.dutra77@gmail.com">
-      <img width="300" src="email.gif" alt="gmail"/>
+      <img width="50" src="email.gif" alt="gmail"/>
     </a>
 
 </div>
