@@ -24,8 +24,5 @@
     <a href="https://www.linkedin.com/in/maicon-dutra-09a41b250/">
       <img width="50" src="linkedin2.gif" alt="linkedin"/>
     </a>
-    <a href="https://www.linkedin.com/in/maicon-dutra-09a41b250/">
-      <img width="50" src="instagram.gif" alt="instagram"/>
-    </a>
 
 </div>
