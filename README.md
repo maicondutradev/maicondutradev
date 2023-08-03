@@ -8,7 +8,7 @@
 <div align="center">
   <div style"display: inline_block"><br>
     <img align="left" height="300" alt="Coding-time" src="code.gif">
-    <h1 align="center">TECNOLOGIAS</h1>
+    <h1 align="center">Tecnologias</h1>
     <img align="center" height="60" width="70" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="60" width="70" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="60" width="70" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -16,8 +16,10 @@
     <img align="center" height="60" width="70" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
 
+  <br>
+  <br>
 
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Contato</h1>
     <a href="mailto:maicon.dutra77@gmail.com">
       <img width="50" src="gmail.gif" alt="gmail"/>
     </a>
