@@ -25,7 +25,7 @@
     
   </div>
 
-  <div align="right">
+  <div align="center">
   <h1 align="center">Contato</h1>
     <a href="mailto:maicon.dutra77@gmail.com">
       <img align="center" width="50" src="gmail.gif" alt="gmail"/>
