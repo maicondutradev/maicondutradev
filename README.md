@@ -29,3 +29,5 @@
     </a>
 
 </div>
+
+![snake animation](https://github.com/maicondutradev/maicondutradev/blob/output/github-contribution-grid-snake.svg)
