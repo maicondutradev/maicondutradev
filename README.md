@@ -14,6 +14,8 @@
     <img align="center" height="60" width="70" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="60" width="70" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" height="60" width="70" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="60" width="60" src="visual studio.png">
+    <img align="center" height="70" width="70" src="githubdesktop.png">
   </div>
 
   <br>
