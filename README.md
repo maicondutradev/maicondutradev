@@ -30,7 +30,7 @@
       <img align="right" width="50" src="gmail.gif" alt="gmail"/>
     </a>
     <a href="https://www.linkedin.com/in/maicon-dutra-09a41b250/">
-      <img align="rigth" width="50" src="linkedin2.gif" alt="linkedin"/>
+      <img align="right" width="50" src="linkedin2.gif" alt="linkedin"/>
     </a>
 
 </div>
