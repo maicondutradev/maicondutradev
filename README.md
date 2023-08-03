@@ -1,5 +1,8 @@
 ## Olá! Eu me chamo Maicon Dutra 🖐️
 
+<h3>Sobre mim</h3>
+<p>Eu sou um <strong>Desenvolvedor Front End</strong>, estou cursando engenharia de software, atualmente estou no segundo período da universidade, meus estudos atualmente são parte de front end, utilizando html5, css3, javascript, bootstrap, tailwindcss e react.</p>
+
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maicondutradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicondutradev&layout=compact&langs_count=16&theme=tokyonight"/>
