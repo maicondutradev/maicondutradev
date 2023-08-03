@@ -22,4 +22,8 @@
       <img width="50" src="email.gif" alt="gmail"/>
     </a>
 
+    <a href="https://www.linkedin.com/in/maicon-dutra-09a41b250/">
+      <img width="50" src="linkedin.gif" alt="linkedin"/>
+    </a>
+
 </div>
