@@ -1,7 +1,9 @@
 ## Olá! Eu me chamo Maicon Dutra 🖐️
 
 <h3>Sobre mim</h3>
-<p>Eu sou um <strong>Desenvolvedor Front End</strong>, estou cursando engenharia de software, atualmente estou no segundo período da universidade, meus estudos atualmente são maior parte no front end, utilizando html5, css3, javascript, bootstrap, tailwindcss e react. Porém eu desejo me tornar um desenvolvedor fullstack, trabalhando tanto no front end quanto no back end.</p>
+<p>Sou um <strong>Desenvolvedor Front End</strong> atualmente matriculado no curso de Engenharia de Software. Encontro-me no segundo período da universidade. Atualmente, concentro a maior parte dos meus estudos no âmbito do desenvolvimento Front End, utilizando tecnologias como HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS e React.
+
+No entanto, tenho aspirações de ampliar minha expertise para me tornar um Desenvolvedor Full Stack, com habilidades tanto no desenvolvimento de Front End quanto de Back End. Estou comprometido em aprimorar minha compreensão e domínio das tecnologias e conceitos relevantes para atingir essa meta profissional.</p>
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maicondutradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
