@@ -32,7 +32,7 @@ No entanto, tenho aspirações de ampliar minha expertise para me tornar um Dese
     <a href="mailto: maicondutra.dev@gmail.com">
       <img align="right" width="50" src="gmail.gif" alt="gmail"/>
     </a>
-    <a href="https://www.linkedin.com/in/maicon-dutra-09a41b250/">
+    <a href="https://www.linkedin.com/in/maicon-dutra-09a41b250/" target="_blank">
       <img align="right" width="50" src="linkedin2.gif" alt="linkedin"/>
     </a>
 
