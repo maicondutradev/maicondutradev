@@ -22,6 +22,7 @@ No entanto, tenho aspirações de ampliar minha expertise para me tornar um Dese
     <img align="center" height="70" width="70" src="tailwind.png">
     <img align="center" height="60" width="60" src="visual studio.png">
     <img align="center" height="70" width="70" src="githubdesktop.png">
+    <img align="center" height="70" width="60" src="python.png">
   </div>
 
   <br>
