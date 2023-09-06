@@ -24,6 +24,7 @@ No entanto, tenho aspirações de ampliar minha expertise para me tornar um Dese
     <img align="center" height="60" width="70" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" height="70" width="70" src="tailwind.png">
     <img align="center" height="60" width="60" src="visual studio.png">
+    <img align="center" height="65" width="70" src="git.png">
     <img align="center" height="70" width="70" src="githubdesktop.png">
   </div>
 
