@@ -17,9 +17,10 @@ No entanto, tenho aspirações de ampliar minha expertise para me tornar um Dese
     <img align="center" height="60" width="70" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="60" width="70" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="70" width="60" src="python.png">
-    <img align="center" height="70" width="70" src="django.png">
+    <img align="center" height="70" width="120" src="django.png">
     <img align="center" height="60" width="70" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="60" width="70" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <br>
     <img align="center" height="60" width="70" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" height="70" width="70" src="tailwind.png">
     <img align="center" height="60" width="60" src="visual studio.png">
