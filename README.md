@@ -3,7 +3,7 @@
 <h3>Sobre mim</h3>
 <p>Sou um <strong>Desenvolvedor Front End</strong> atualmente matriculado no curso de Engenharia de Software. Encontro-me no segundo período da universidade. Atualmente, concentro a maior parte dos meus estudos no âmbito do desenvolvimento Front End, utilizando tecnologias como HTML5, CSS3, JavaScript, Python, Django, Bootstrap, TailwindCSS, React e Git/GitHub.
 
-No entanto, tenho aspirações de ampliar minha expertise para me tornar um Desenvolvedor Full Stack, com habilidades tanto no desenvolvimento de Front End quanto de Back End. Estou comprometido em aprimorar minha compreensão e domínio das tecnologias e conceitos relevantes para atingir essa meta profissional.</p>
+No entanto, tenho aspirações de ampliar minha competência para me tornar um Desenvolvedor Full Stack, com habilidades tanto no desenvolvimento de Front End quanto de Back End. Estou comprometido em aprimorar minha compreensão e domínio das tecnologias e conceitos relevantes para atingir essa meta profissional.</p>
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maicondutradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
