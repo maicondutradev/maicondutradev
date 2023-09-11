@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo Maicon Dutra 🖐️
 
 <h3>Sobre mim</h3>
-<p>Sou um <strong>Desenvolvedor Front End</strong> atualmente matriculado no curso de Engenharia de Software. Encontro-me no segundo período da universidade. Atualmente, concentro a maior parte dos meus estudos no âmbito do desenvolvimento Front End, utilizando tecnologias como HTML5, CSS3, JavaScript, Python, Django, Bootstrap, TailwindCSS, React e Git/GitHub.
+<p>Sou um <strong>Desenvolvedor Front End</strong> atualmente matriculado no curso de Engenharia de Software. Encontro-me no segundo período da universidade. Atualmente, concentro a maior parte dos meus estudos no âmbito do desenvolvimento Front End, utilizando tecnologias como HTML5, CSS3, JavaScript, Python, Django, Docker, Bootstrap, e Git/GitHub.
 
 No entanto, tenho aspirações de ampliar minha competência para me tornar um Desenvolvedor Full Stack, com habilidades tanto no desenvolvimento de Front End quanto de Back End. Estou comprometido em aprimorar minha compreensão e domínio das tecnologias e conceitos relevantes para atingir essa meta profissional.</p>
 
