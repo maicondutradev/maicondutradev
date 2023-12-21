@@ -13,6 +13,7 @@
     <img align="left" height="300" alt="Coding-time" src="code.gif">
     <h1 align="center">Linguagens e Ferramentas</h1>
     <img align="center" height="60" width="70" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="50" width="60" src="typescript.png">
     <img align="center" height="70" width="60" src="python.png">
     <img align="center" height="70" width="120" src="django.png">
     <img align="center" height="60" width="70" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
