@@ -19,6 +19,7 @@
     <img align="center" height="60" width="70" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="60" width="70" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <br>
+    <img align="center" height="70" width="75" src="mysql.png">
     <img align="center" height="55" width="75" src="docker.png">
     <img align="center" height="60" width="70" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" height="60" width="60" src="visual studio.png">
