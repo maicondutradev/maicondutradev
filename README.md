@@ -14,7 +14,8 @@
     <h1 align="center">Linguagens e Ferramentas</h1>
     <img align="center" height="78" width="78" src="javascript.png">
     <img align="center" height="78" width="78" src="typescript.png">
-    <img align="center" height="80" width="100" src="nodejs.png">
+    <img align="center" height="78" width="78" src="angular.png">
+    <img align="center" height="85" width="100" src="nodejs.png">
     <img align="center" height="60" width="70" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="60" width="70" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <br>
