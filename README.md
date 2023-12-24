@@ -1,7 +1,7 @@
 <img align="right"  height="280" src="5978741.jpg">
 
 <h1>
-    <a href="https://maicondutradev.github.io/">
+    <a href="https://github.com/maicondutradev">
      <img height="90" width="90" align="center" width="36px" src="LOGO.png"></a>
     <span>Maicon Dutra</span>
 </h1>
