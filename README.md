@@ -42,11 +42,4 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@casalfullstack)
 
 
-    <a href="mailto: maicondutra.dev@gmail.com">
-      <img align="right" width="50" src="gmail.gif" alt="gmail"/>
-    </a>
-    <a href="https://www.linkedin.com/in/maicon-dutra-09a41b250/" target="_blank">
-      <img align="right" width="50" src="linkedin2.gif" alt="linkedin"/>
-    </a>
-
 </div>
