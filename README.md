@@ -35,8 +35,13 @@
   <br>
   <br>
 
+<h1 align="center">Contato</h1>
 
-  <h1 align="center">Contato</h1>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/maicon-dutra-09a41b250/)
+[![Email](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/elicosmaker/)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@casalfullstack)
+
+
     <a href="mailto: maicondutra.dev@gmail.com">
       <img align="right" width="50" src="gmail.gif" alt="gmail"/>
     </a>
