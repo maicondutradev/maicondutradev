@@ -1,4 +1,10 @@
-<img src="logo.png"> Maicon Dutra
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+
+<h1>
+    <a href="https://maicondutradev.github.io/">
+     <img height="90" width="90" align="center" alt="Logo Elidiana Andrade" width="36px" src="LOGO.png"></a>
+    <span>Maicon Dutra</span>
+</h1>
 
 <h3>Sobre mim</h3>
 <p>Sou um <strong>Desenvolvedor Backend</strong> atualmente matriculado no curso de Engenharia de Software. Encontro-me no segundo período da universidade. Atualmente, concentro a maior parte dos meus estudos no âmbito do desenvolvimento Full Stack, utilizando tecnologias como HTML5, CSS3, JavaScript, Python, Django, Docker, Bootstrap, e Git/GitHub.
