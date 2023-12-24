@@ -1,8 +1,8 @@
-<img align="right"  height="300" src="5978741.jpg">
+<img align="right"  height="280" src="5978741.jpg">
 
 <h1>
     <a href="https://maicondutradev.github.io/">
-     <img height="90" width="90" align="center" alt="Logo Elidiana Andrade" width="36px" src="LOGO.png"></a>
+     <img height="90" width="90" align="center" width="36px" src="LOGO.png"></a>
     <span>Maicon Dutra</span>
 </h1>
 
