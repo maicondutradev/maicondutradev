@@ -7,7 +7,7 @@
 </h1>
 
 <h3>Sobre mim</h3>
-<p>Sou um <strong>Desenvolvedor Backend</strong> atualmente matriculado no curso de Engenharia de Software. Encontro-me no segundo período da universidade. Atualmente, concentro a maior parte dos meus estudos no âmbito do desenvolvimento Full Stack, utilizando tecnologias como HTML5, CSS3, JavaScript, Python, Django, Docker, Bootstrap, e Git/GitHub.
+<p>Sou um <strong>Desenvolvedor Backend</strong> atualmente matriculado no curso de Engenharia de Software. No momento estou no terceiro período.
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maicondutradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
