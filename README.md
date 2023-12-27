@@ -8,7 +8,9 @@
 
 <h3>Sobre mim</h3>
 <p>Sou um <strong>Desenvolvedor Backend</strong> atualmente matriculado no curso de Engenharia de Software. No momento estou no terceiro período.
-
+<br>
+<br>
+<br>
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maicondutradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicondutradev&layout=compact&langs_count=16&theme=tokyonight"/>
