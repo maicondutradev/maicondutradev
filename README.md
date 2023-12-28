@@ -7,7 +7,7 @@
 </h1>
 
 <h3>Sobre mim</h3>
-<p>Sou um <strong>Desenvolvedor Backend</strong> atualmente matriculado no curso de Engenharia de Software. No momento estou no terceiro período.
+<p>Sou um <strong>Desenvolvedor Backend</strong> atualmente cursando o curso de Engenharia de Software, estando no terceíro período.
 <br>
 <br>
 <br>
