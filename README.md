@@ -7,7 +7,7 @@
 </h1>
 
 <h3>Sobre mim</h3>
-<p>Sou um <strong>Desenvolvedor Backend</strong> atualmente cursando Engenharia de Software, estando no terceíro período. Minha área de atuação é o backend, utilizando Node.js, TypeScript, Angular, MySQL, Nest.js, porém tenho conhecimentos em frontend também, tal como HTML, CSS, Bootstrap, Javascript.
+<p>Sou um <strong>Desenvolvedor Backend</strong> atualmente cursando Engenharia de Software, estando no terceíro período. Minha área de atuação é o backend, utilizando C#, .NET, TypeScript, Angular, MySQL, Nest.js, porém tenho conhecimentos em frontend também, tal como HTML, CSS, Bootstrap, Javascript.
 <br>
 <br>
 <br>
