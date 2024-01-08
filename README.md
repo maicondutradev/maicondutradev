@@ -18,7 +18,7 @@
 
 <div align="center">
   <div style"display: inline_block"><br>
-    <h1 align="center">Linguagens e Ferramentas</h1>
+    <h1 align="center">Languages ​​and tools</h1>
     <img align="center" height="78" width="78" src="javascript.png">
     <img align="center" height="78" width="78" src="typescript.png">
     <img align="center" height="75" width="75" src="angular.png">
