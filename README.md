@@ -19,7 +19,7 @@
 <div align="center">
   <div style"display: flex">
       <br>
-    <h1>HardSkills</h1>
+    <bold><h1>HardSkills</h1></bold>
     <img align="center" height="78" width="78" src="javascript.png">
     <img align="center" height="78" width="78" src="typescript.png">
     <img align="center" height="75" width="75" src="angular.png">
