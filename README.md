@@ -17,8 +17,9 @@
 </div>
 
 <div align="center">
-  <div style"display: inline_block"><br>
-    <h1 align="center">Languages ​​and tools</h1>
+  <div style"display: flex">
+      <br>
+    <h1>HardSkills</h1>
     <img align="center" height="78" width="78" src="javascript.png">
     <img align="center" height="78" width="78" src="typescript.png">
     <img align="center" height="75" width="75" src="angular.png">
@@ -32,14 +33,16 @@
     <img align="center" height="65" width="70" src="git.png">
     <img align="center" height="70" width="70" src="githubdesktop.png">
   </div>
+</div>
 
   <br>
   <br>
 
+<div align="center">
+    
 <h1 align="center">Contato</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-dutra-09a41b250/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:maicondutra.dev@gmail.com)
-
 
 </div>
