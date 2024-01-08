@@ -1,4 +1,4 @@
-<img align="right"  height="280" src="5978741.jpg">
+
 
 <h1>
     <a href="https://github.com/maicondutradev">
