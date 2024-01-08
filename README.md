@@ -22,11 +22,10 @@
     <img align="center" height="78" width="78" src="javascript.png">
     <img align="center" height="78" width="78" src="typescript.png">
     <img align="center" height="75" width="75" src="angular.png">
-    <img align="center" height="85" width="100" src="nodejs.png">
+    <img align="center" height="85" width="90" src="csharp.png">
     <img align="center" height="60" width="70" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="60" width="70" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <br>
-    <img align="center" height="70" width="75" src="mysql.png">
     <img align="center" height="55" width="75" src="docker.png">
     <img align="center" height="60" width="70" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" height="60" width="60" src="visual studio.png">
