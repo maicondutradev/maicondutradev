@@ -1,7 +1,7 @@
 
 
 <h1>
-    <p align="center"> Hello World! I'm Maicon Dutra</p>
+    <p align="center"> Hello World, I'm Maicon Dutra 👨🏻‍💻</p>
 </h1>
 
 <h3>Sobre mim</h3>
