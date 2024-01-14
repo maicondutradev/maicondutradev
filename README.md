@@ -1,9 +1,7 @@
 
 
 <h1>
-    <a href="https://github.com/maicondutradev">
-     <img height="90" width="90" align="center" width="36px" src="LOGO.png"></a>
-    <span>Maicon Dutra</span>
+    <p align="center"> Hello World! I'm Maicon Dutra</p>
 </h1>
 
 <h3>Sobre mim</h3>
