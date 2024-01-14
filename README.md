@@ -14,6 +14,18 @@
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicondutradev&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
+<div>
+<h3>Hard Skills 🖥️</h3>
+    
+![c-sharp](https://img.shields.io/badge/-C%23-E7ECEB?style=for-the-badge&logo=c-sharp&logoColor=3D5A7A)&nbsp;
+![Dotnet](https://img.shields.io/badge/.NET-E7ECEB?style=for-the-badge&logo=dotnet&logoColor=435C6E)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-E7ECEB?style=for-the-badge&logo=Angular&logoColor=893121)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-E7ECEB?style=for-the-badge&logo=typescript&logoColor=1572B6)&nbsp;
+![Javascript](https://img.shields.io/badge/Javascript-E7ECEB?style=for-the-badge&logo=javascript&logoColor=F0DB4F)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=139DFF)&nbsp;
+![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
+</div>
 <div align="center">
   <div style"display: flex">
       <br>
