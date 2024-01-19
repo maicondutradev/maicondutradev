@@ -5,7 +5,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=maicondutradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img style="width: 280px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicondutradev&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img style="width: 305px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicondutradev&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <h3 align="center">Hard Skills 🖥️</h3>
