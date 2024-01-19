@@ -34,6 +34,7 @@
 <p align="left">
 
   ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
+  ![Azure](https://img.shields.io/badge/-Azure-E7ECEB?style=for-the-badge&logo=Azure&logoColor=FDFD62)&nbsp;
   
 </p>
 
