@@ -27,33 +27,11 @@
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-E7ECEB?style=for-the-badge&logo=Git&logoColor=C86833)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-E7ECEB?style=for-the-badge&logo=GitHub&logoColor=800080)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-E7ECEB?style=for-the-badge&logo=Docker&logoColor=0000ff)&nbsp;
 
 </div>
 
-<div>
-    <h3>Ferramentas</h3>
 
-    
-</div>
-
-<div align="center">
-  <div style"display: flex">
-      <br>
-    <bold><h1>HardSkills</h1></bold>
-    <img align="center" height="78" width="78" src="javascript.png">
-    <img align="center" height="78" width="78" src="typescript.png">
-    <img align="center" height="75" width="75" src="angular.png">
-    <img align="center" height="85" width="90" src="csharp.png">
-    <img align="center" height="60" width="70" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="60" width="70" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <br>
-    <img align="center" height="55" width="75" src="docker.png">
-    <img align="center" height="60" width="70" alt="bootstrap-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" height="60" width="60" src="visual studio.png">
-    <img align="center" height="65" width="70" src="git.png">
-    <img align="center" height="70" width="70" src="githubdesktop.png">
-  </div>
-</div>
 
   <br>
   <br>
