@@ -3,8 +3,8 @@
 <h3>Sobre mim</h3>
 <p>Sou um <strong>Desenvolvedor Backend</strong> atualmente cursando Engenharia de Software, estando no terceiro período. Minha área de atuação é o backend, utilizando C#, .NET, TypeScript, Angular, MySQL, Nest.js, porém tenho conhecimentos em frontend também, tal como HTML, CSS, Bootstrap, Javascript.</p>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=maicondutradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicondutradev&layout=compact&langs_count=16&theme=tokyonight"/>
+<img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=maicondutradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicondutradev&layout=compact&langs_count=16&theme=tokyonight"/>
 
 <h3 align="center">Hard Skills 🖥️</h3>
 <p align="center">
