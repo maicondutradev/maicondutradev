@@ -8,7 +8,7 @@
   <img style="width: 305px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicondutradev&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-<h3 align="left">Backend 🖥️</h3>
+<h3 align="left">Backend ⚙️</h3>
 <p align="left">
     
   ![c-sharp](https://img.shields.io/badge/-C%23-E7ECEB?style=for-the-badge&logo=c-sharp&logoColor=3D5A7A)&nbsp;
@@ -30,14 +30,14 @@
   
 </p>
 
-<h3 align="left">Server 🖥️</h3>
+<h3 align="left">Server 🗄️</h3>
 <p align="left">
 
   ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
   
 </p>
 
-<h3 align="left">Ferramentas 🖥️</h3>
+<h3 align="left">Ferramentas 🛠️</h3>
 <p align="left">
 
   ![Git](https://img.shields.io/badge/-Git-E7ECEB?style=for-the-badge&logo=Git&logoColor=C86833)&nbsp;
