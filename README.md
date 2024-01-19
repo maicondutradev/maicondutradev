@@ -13,6 +13,7 @@
     
   ![c-sharp](https://img.shields.io/badge/-C%23-E7ECEB?style=for-the-badge&logo=c-sharp&logoColor=3D5A7A)&nbsp;
   ![Dotnet](https://img.shields.io/badge/.NET-E7ECEB?style=for-the-badge&logo=dotnet&logoColor=435C6E)&nbsp;
+  ![EntityFramework](https://img.shields.io/badge/Entity_Framework-E7ECEB?style=for-the-badge&logo=EntityFramework&logoColor=435C6E)&nbsp;
   
   
   
