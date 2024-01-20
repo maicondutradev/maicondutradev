@@ -30,6 +30,13 @@
   
 </p>
 
+<h3 align="left">Mobile 📱</h3>
+<p align="left">
+    
+  ![Xamarin](https://img.shields.io/badge/-Xamarin-E7ECEB?style=for-the-badge&logo=Xamarinp&logoColor=3D5A7A)&nbsp;
+  
+</p>
+
 <h3 align="left">Server 🗄️</h3>
 <p align="left">
 
