@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Maicon Dutra 👨🏻‍💻</h1>
 
 <h3>Sobre mim</h3>
-<p>Sou um <strong>Desenvolvedor Backend</strong> atualmente cursando Engenharia de Software, estando no terceiro período. Minha área de atuação é o backend, utilizando C#, .NET, Entity Framework, ASP.NET Core, SqlServer, ASP.NET-MVC, porém tenho conhecimentos em frontend também.</p>
+<p>Sou um <strong>Desenvolvedor Backend</strong> atualmente cursando Engenharia de Software, estando no terceiro período. Minha área de atuação é o backend, utilizando C#, .NET, Entity Framework, ASP.NET Core, SQL Server, ASP.NET-MVC, porém tenho conhecimentos em frontend também.</p>
 
 <div style="display: flex; justify-content: space-between;">
   <img style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=maicondutradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
