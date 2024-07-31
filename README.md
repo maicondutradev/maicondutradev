@@ -35,6 +35,7 @@
 <p align="left">
     
   ![Xamarin](https://img.shields.io/badge/-Xamarin-E7ECEB?style=for-the-badge&logo=Xamarinp&logoColor=3D5A7A)&nbsp;
+  ![MAUI](https://img.shields.io/badge/MAUI-E7ECEB?style=for-the-badge&logo=Maui&logoColor=3D5A7A)&nbsp;
   
 </p>
 
@@ -42,6 +43,7 @@
 <p align="left">
 
   ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
+  ![MySQL](https://img.shields.io/badge/MySQL-E7ECEB?style=for-the-badge&logo=MySQL&logoColor=0000ff)&nbsp;
   ![Azure](https://img.shields.io/badge/-Azure-E7ECEB?style=for-the-badge&logo=Azure&logoColor=FDFD62)&nbsp;
   
 </p>
