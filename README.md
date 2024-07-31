@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Maicon Dutra 👨🏻‍💻</h1>
 
 <h3>Sobre mim</h3>
-<p>Olá! Me chamo Maicon e estou no 4º período de Engenharia de Software. Estou em busca de uma oportunidade de estágio na área de backend. Tenho experiência em .NET, C#, Entity Framework, Angular, ASP.NET MVC, SQL Server, Git e GitHub. Também possuo habilidades em frontend, utilizando TypeScript, JavaScript, HTML e CSS. Comecei minha jornada na programação em 2020, desenvolvendo jogos no Gamemaker com GML Code e Unity em C#. Além disso, atuei como estagiário de suporte de TI durante 6 meses. Atualmente, estou focado em aprimorar minhas habilidades técnicas para me tornar um fullstack, bem como minhas habilidades interpessoais. Estou buscando uma oportunidade para contribuir com uma equipe multidisciplinar e me desenvolver profissionalmente.</p>
+<p>Olá! Me chamo Maicon e estou no 4º período de Engenharia de Software. Estou em busca de uma oportunidade de estágio na área de backend. Tenho experiência em .NET, C#, Entity Framework, Angular, ASP.NET MVC, SQL Server, Git e GitHub. Também possuo habilidades em frontend, utilizando TypeScript, JavaScript, HTML e CSS. Comecei minha jornada na programação em 2020, desenvolvendo jogos no Gamemaker com GML Code e Unity em C#. Além disso, atuei como estagiário de suporte de TI durante 6 meses.</p>
 
 <div style="display: flex; justify-content: space-between;">
   <img style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=maicondutradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
