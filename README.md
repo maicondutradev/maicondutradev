@@ -14,7 +14,7 @@
   ![c-sharp](https://img.shields.io/badge/-C%23-E7ECEB?style=for-the-badge&logo=c-sharp&logoColor=3D5A7A)&nbsp;
   ![Dotnet](https://img.shields.io/badge/.NET-E7ECEB?style=for-the-badge&logo=dotnet&logoColor=435C6E)&nbsp;
   ![Entity Framework](https://img.shields.io/badge/Entity_Framework-E7ECEB?style=for-the-badge&logo=EntityFramework&logoColor=435C6E)&nbsp;
-  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-E7ECEB?style=for-the-badge&logo=ASP.NETCore&logoColor=435C6E)&nbsp;
+  ![Python](https://img.shields.io/badge/Python-E7ECEB?style=for-the-badge&logo=Python&logoColor=435C6E)&nbsp;
   
   
   
@@ -23,6 +23,7 @@
 <p align="left">
   
   ![Angular](https://img.shields.io/badge/-Angular-E7ECEB?style=for-the-badge&logo=Angular&logoColor=893121)&nbsp;
+  ![Django](https://img.shields.io/badge/Django-E7ECEB?style=for-the-badge&logo=Django&logoColor=00FF00)&nbsp;
   ![TypeScript](https://img.shields.io/badge/TypeScript-E7ECEB?style=for-the-badge&logo=typescript&logoColor=1572B6)&nbsp;
   ![Javascript](https://img.shields.io/badge/Javascript-E7ECEB?style=for-the-badge&logo=javascript&logoColor=F0DB4F)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833)&nbsp;
