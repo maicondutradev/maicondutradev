@@ -3,62 +3,61 @@
 <h3>Sobre mim</h3>
 <p>Olá! Me chamo Maicon e estou no 4º período de Engenharia de Software. Estou em busca de uma oportunidade de estágio na área de backend ou suporte. Tenho experiência em .NET, C#, Entity Framework, Angular, ASP.NET MVC, SQL Server, Git e GitHub. Também possuo habilidades em frontend, utilizando TypeScript, JavaScript, HTML e CSS. Comecei minha jornada na programação em 2020, desenvolvendo jogos no Gamemaker com GML Code e Unity em C#. Além disso, atuei como estagiário de suporte de TI durante 6 meses.</p>
 
-<div style="display: flex; justify-content: space-between;">
-  <img style="width: 400px;" src="https://github-readme-stats.vercel.app/api?username=maicondutradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img style="width: 305px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicondutradev&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+# 💻 Tech Stack:
 
-<h3 align="left">Backend ⚙️</h3>
-<p align="left">
-    
-  ![c-sharp](https://img.shields.io/badge/-C%23-E7ECEB?style=for-the-badge&logo=c-sharp&logoColor=3D5A7A)&nbsp;
-  ![Dotnet](https://img.shields.io/badge/.NET-E7ECEB?style=for-the-badge&logo=dotnet&logoColor=435C6E)&nbsp;
-  ![Entity Framework](https://img.shields.io/badge/Entity_Framework-E7ECEB?style=for-the-badge&logo=EntityFramework&logoColor=435C6E)&nbsp;
-  ![Python](https://img.shields.io/badge/Python-E7ECEB?style=for-the-badge&logo=Python&logoColor=435C6E)&nbsp;
-  
-  
-  
-</p>
-<h3 align="left">Frontend 🖥️</h3>
-<p align="left">
-  
-  ![Angular](https://img.shields.io/badge/-Angular-E7ECEB?style=for-the-badge&logo=Angular&logoColor=893121)&nbsp;
-  ![Django](https://img.shields.io/badge/Django-E7ECEB?style=for-the-badge&logo=Django&logoColor=00FF00)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/TypeScript-E7ECEB?style=for-the-badge&logo=typescript&logoColor=1572B6)&nbsp;
-  ![Javascript](https://img.shields.io/badge/Javascript-E7ECEB?style=for-the-badge&logo=javascript&logoColor=F0DB4F)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=139DFF)&nbsp;
-  
-</p>
+## 🔧 Backend:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-<h3 align="left">Mobile 📱</h3>
-<p align="left">
-    
-  ![Xamarin](https://img.shields.io/badge/-Xamarin-E7ECEB?style=for-the-badge&logo=Xamarinp&logoColor=3D5A7A)&nbsp;
-  ![MAUI](https://img.shields.io/badge/MAUI-E7ECEB?style=for-the-badge&logo=Maui&logoColor=3D5A7A)&nbsp;
-  
-</p>
+## 🎨 Frontend:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-<h3 align="left">Server 🗄️</h3>
-<p align="left">
+## 🗄️ Bancos de Dados:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-  ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-E7ECEB?style=for-the-badge&logo=MySQL&logoColor=0000ff)&nbsp;
-  ![Azure](https://img.shields.io/badge/-Azure-E7ECEB?style=for-the-badge&logo=Azure&logoColor=FDFD62)&nbsp;
-  
-</p>
+## 🛠️ Ferramentas:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-<h3 align="left">Ferramentas 🛠️</h3>
-<p align="left">
+## ☁️ Plataformas de Deploy e Hospedagem:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-  ![Git](https://img.shields.io/badge/-Git-E7ECEB?style=for-the-badge&logo=Git&logoColor=C86833)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-E7ECEB?style=for-the-badge&logo=GitHub&logoColor=800080)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-E7ECEB?style=for-the-badge&logo=Docker&logoColor=0000ff)&nbsp;
-  
-</p>
+## 📱 Desenvolvimento Mobile:
+![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) 
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-<br>
-<br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=maicondutradev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 <h1 align="center">Contato</h1>
 
