@@ -28,7 +28,7 @@
 
 ## 🎮 Games I developed and published
 - **[Speak Words](https://play.google.com/store/apps/details?id=com.simplixelgames.speakwords)**
-  Jogo mobile publicado na play store utilizando a Unity.  
+  Em Speak Words, você escolhe uma letra, pensa rápido, diz uma palavra relacionada ao tema antes que o tempo acabe e, então, passa a vez. Quem demorar ou repetir uma palavra já dita e passar a vez... perde! 
 
 ## 🗄️ Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
