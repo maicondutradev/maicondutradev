@@ -26,10 +26,9 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Aseprite](https://img.shields.io/badge/Aseprite-5B9EAD?style=for-the-badge&logo=aseprite&logoColor=white)
 
-## 🎮 Jogos que desenvolvi
+## 🎮 Games I developed and published
 - **[Speak Words]([https://seu-link-ou-repo](https://play.google.com/store/apps/details?id=com.simplixelgames.speakwords))**  
   Jogo mobile publicado na play store utilizando a Unity.  
-  ![Crossword Preview](https://via.placeholder.com/400x200.png?text=GIF+ou+Print+do+Jogo)
 
 ## 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
