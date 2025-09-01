@@ -31,10 +31,6 @@
   Jogo mobile publicado na play store utilizando a Unity.  
   ![Crossword Preview](https://via.placeholder.com/400x200.png?text=GIF+ou+Print+do+Jogo)
 
-## 📱 Mobile Development
-![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) 
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
 ## 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
